@@ -4,11 +4,15 @@ Movie ratings are predicted from the recent twitter feed. A Linear SVC model is 
 
 Packages Required
 =======================
->1) [scikit-learn](http://scikit-learn.org/stable/) 
->2) [NLTK](http://www.nltk.org/)
->3) [Enchant](https://pythonhosted.org/pyenchant/tutorial.html)
->4) [Twitter](https://pypi.python.org/pypi/twitter)
->5) [IMDB](http://imdbpy.sourceforge.net/)
+1) [scikit-learn](http://scikit-learn.org/stable/) 
+
+2) [NLTK](http://www.nltk.org/)
+
+3) [Enchant](https://pythonhosted.org/pyenchant/tutorial.html)
+
+4) [Twitter](https://pypi.python.org/pypi/twitter)
+
+5) [IMDB](http://imdbpy.sourceforge.net/)
 
 Simulation
 =======================
