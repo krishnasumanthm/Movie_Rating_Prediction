@@ -4,7 +4,7 @@ Movie ratings are predicted from the recent twitter feed. A Linear SVC model is 
 
 Packages Required
 =======================
-1) [scikit-learn](http://scikit-learn.org/stable/) 
+1) [Scikit-Learn](http://scikit-learn.org/stable/) 
 
 2) [NLTK](http://www.nltk.org/)
 
