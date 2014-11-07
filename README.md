@@ -5,7 +5,7 @@ Movie ratings are predicted from the recent twitter feed. A Linear SVC model is 
 Simulation
 =======================
 
-#Packages Required
+###Packages Required
 
 The train_classier.ipynb trains a Linear SVC classifier using a Count Vectorizer for feature extraction. The vectorizer and the classifier are saved using pickle in order to be used for the twitter data.
 
