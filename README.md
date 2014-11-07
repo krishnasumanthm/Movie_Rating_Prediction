@@ -20,7 +20,7 @@ The datasets can be obtained from [here](http://ai.stanford.edu/~amaas/data/sent
 
 The train_classier.ipynb trains a Linear SVC classifier using a Count Vectorizer for feature extraction. The vectorizer and the classifier are saved using pickle in order to be used for the twitter data.
 
-The replacers.py helps in pre-processing of text for term expansion, repeated character removal and spell checkker.
+The replacers.py helps in pre-processing of text for term expansion, repeated character removal and spell checker.
 
 The movie_rating.ipynb gets the tweets for the movie and finds sentiment using the trained classier and then converts that sentiment to a rating value. It also gives the IMDB rating of that movie.
 
