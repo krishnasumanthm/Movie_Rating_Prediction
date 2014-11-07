@@ -6,6 +6,7 @@ Simulation
 =======================
 
 ###Packages Required
+1) [scikit-learn](http://scikit-learn.org/stable/) 
 
 The train_classier.ipynb trains a Linear SVC classifier using a Count Vectorizer for feature extraction. The vectorizer and the classifier are saved using pickle in order to be used for the twitter data.
 
