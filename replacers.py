@@ -3,7 +3,7 @@ import enchant
 from nltk.corpus import wordnet
 from nltk.metrics import edit_distance
 import string
-
+print "yoyo"
 replacement_patterns = [
     (r'won\'t', 'will not'),
     (r'can\'t', 'cannot'),
